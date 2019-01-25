@@ -1,3 +1,6 @@
+^\.travis\.yml$
 ^analysis$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^public$
+^manuscript$
